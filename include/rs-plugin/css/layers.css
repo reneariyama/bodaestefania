@@ -3800,7 +3800,7 @@ website:   	http://www.themepunch.com
    
    .tp-caption.Agency-Est-fondo,
    .Agency-Est-fondo {
-    color: #000;
+    color: rgba(255, 255, 255, 1.00);
     font-size: 90px;
     line-height: 90px;
     font-weight: 0;
